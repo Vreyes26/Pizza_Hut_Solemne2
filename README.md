@@ -4,3 +4,4 @@ Integrantes:
 Victor Reyes,
 Oscar Valenzuela, 
 Samuel Velasquez,
+Patricio Valdivia.
